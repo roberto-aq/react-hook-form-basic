@@ -1,8 +1,18 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto esta utilizando React Hook Form, aquí podrás ver cómo utilizar esta librería con un formulario básico. Se esta utilizando bun como gestor de paquetes
 
-Currently, two official plugins are available:
+## Guía de instalación
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Clona el repositorio
+2. Instala las dependencias
+
+```
+bun install
+```
+
+3. Ejecutar el servidor (Esta configurado para lanzarse en el puerto 3000)
+
+```
+bun dev
+```
